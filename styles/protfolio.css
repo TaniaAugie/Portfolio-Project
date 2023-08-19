@@ -60,6 +60,10 @@ p {
   padding: 15px 30px;
 }
 
+.projects {
+  margin-left: 20px;
+  margin-right: 20px;
+}
 .projects p {
   color: black;
   font-family: var(--default-font-family);
