@@ -122,7 +122,22 @@ p {
   line-height: 27px;
   padding: 15px 30px;
 }
-
+nav {
+  padding: 20px;
+}
+nav li {
+  display: inline;
+  list-style: none;
+  margin-left: 15px;
+}
+nav ul {
+  padding: 0;
+  margin: 0;
+  line-height: 40px;
+}
+nav a {
+  text-decoration: none;
+}
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;

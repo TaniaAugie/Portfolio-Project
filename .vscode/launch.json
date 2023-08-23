@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/taniamaxaugust/Desktop/Portfolio-Project",
-      "program": "/Users/taniamaxaugust/Desktop/Portfolio-Project/build/Debug/outDebug"
+      "cwd": "/Users/taniamaxaugust/Desktop/Portfolio-Project.zip",
+      "program": "/Users/taniamaxaugust/Desktop/Portfolio-Project.zip/build/Debug/outDebug"
     }
   ]
 }
