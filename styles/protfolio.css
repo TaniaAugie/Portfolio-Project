@@ -138,6 +138,17 @@ nav ul {
 }
 nav a {
   text-decoration: none;
+  color: whitesmoke;
+  transition: all 100ms ease-in-out;
+  line-height: 42px;
+}
+
+nav li.active,
+nav li.active a {
+  color: pink;
+}
+.coder {
+  color: whitesmoke;
 }
 @media (max-width: 900px) {
   h1 {
