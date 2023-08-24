@@ -124,6 +124,7 @@ p {
 }
 nav {
   padding: 20px;
+  background-color: black;
 }
 nav li {
   display: inline;
