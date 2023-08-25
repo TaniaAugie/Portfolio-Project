@@ -23,7 +23,7 @@ h6 {
 h1 {
   font-size: 80px;
 }
-h4 {
+h3 {
   font-size: 48px;
 }
 
@@ -167,6 +167,8 @@ footer .social-links a {
   margin: 0 20px;
   font-size: 30px;
   padding: 10px 14px;
+  border-radius: 50%;
+  background-color: whitesmoke;
   transition: all 150ms ease-in-out;
 }
 footer .contact-box {
@@ -193,7 +195,7 @@ footer .email-link:hover {
     font-size: 44px;
   }
 
-  h4 {
+  h3 {
     font: 18px;
   }
 
